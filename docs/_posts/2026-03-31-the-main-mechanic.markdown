@@ -2,11 +2,11 @@
 layout: post
 title:  "The Main Mechanic"
 date:   2026-03-31 16:00:24 +0900
-categories: devlog, game-design
+categories: game-design
 ---
 Since March 2025, I've been trying to make a game. Mostly to graduate, because I need to complete a project to get my degree and move on with my life. But also because I do like games, and I think the world could use a bit more fun. I took the two game design courses that were available when I was enrolled (more courses have been opened afterward, but I digress), I watched game playthroughs on Youtube (as entertainment more than research, but still research), and I played games myself. Then I had some weekly meetings with the professor that gives the game design courses for a semester, and came up with something of a game. 
 
-Even though I'd learned the basics of game design - the formal elements, dramatic elements and so on - it took a long time to use that knowledge to then organize my ideas into the format of a game. I was confused, the professor was confused, it was rushed, but (apparently) the proposal still turned out okay. I think more than half of the meetings were spent on making the main mechanic, which makes sense since that's the most important part.
+Even though I'd learned the basics of game design - the formal elements, dramatic elements and so on - it took a long time to use that knowledge to then organize my ideas into the format of a game. There were some points from the game design sessions that I hope will help other beginner game devs! A lot of people will tell you that the best approach is to just start, try making it, try playing it, and make it better. But if you're like me and you can't "just start" without some sort of structure, maybe this blog could be somewhere to start. 
 
 ### What is the main mechanic? 
 I already knew that the main mechanic had to be designed first, and iterated on the most, and fun on its own, etc. But it took a lot longer to really figure out what it really was. This was partly because I was imagining an adventure game, and the only "main mechanic" I could think of was "You walk around. You.. adventure." The answer to this was to think about *how* you walk around, and how you would be good or bad at walking around, and what rules would be in place to define the how, the good, and the bad. 
